@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaellimaofc
+- 👋 Hi, I’m Rafael Lima
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on as an intern in a company
